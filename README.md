@@ -117,6 +117,9 @@ else:
 
 ```
 ##  Output:
+![OUTPUT](/IMAGES/img21.png)
+![OUTPUT](/IMAGES/img22.png)
+![OUTPUT](/IMAGES/img23.png)
 
 
 
